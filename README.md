@@ -41,7 +41,7 @@
 <li> Distribution of delivery partners in the Delivery_Partner table. </li><br>
 </ul>
 
-## ORACLE SQL Techniques Used
+## MYSQL Techniques Used
 1. Joins<br>
 2. Ranking and Partition<br>
 3. Rolling Sum<br>
